@@ -36,9 +36,9 @@ while True:
     s.send("Acknowledgement Received".encode())
 ```
 ## OUTPUT
-### Client
-![Screenshot 2024-08-27 091727](https://github.com/user-attachments/assets/8b32666f-bc98-4976-9dbf-decbe3bb872f)
 ### Server
+![Screenshot 2024-08-27 091727](https://github.com/user-attachments/assets/8b32666f-bc98-4976-9dbf-decbe3bb872f)
+### Client
 ![Screenshot 2024-08-27 091635](https://github.com/user-attachments/assets/8d452647-c502-4e0a-b7a9-30db29727b58)
 
 
